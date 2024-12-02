@@ -17,3 +17,5 @@ Este repositorio contiene proyectos relacionados con **Inteligencia Artificial (
 - TensorFlow / PyTorch
 - Scikit-learn
 - Jupyter Notebook
+
+![bocchi-bocchi-the-rock](https://github.com/user-attachments/assets/e442c1c7-6756-4838-ad24-757200dc5763)
